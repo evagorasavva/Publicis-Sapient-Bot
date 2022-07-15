@@ -8,7 +8,6 @@ import os
 load_dotenv()
 
 token = os.getenv('BOT_TOKEN')
-guildID = os.getenv('DISCORD_GUILD')
 EngID = os.getenv('ENG_ID')
 ProdID = os.getenv('PROD_ID')
 ProdinID = os.getenv('PRODINTERN_ID')
